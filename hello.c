@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("<head> Hello!\n </head>");
+    printf("<h1> Hello!\n </h1>");
 
     return 0;
 }
